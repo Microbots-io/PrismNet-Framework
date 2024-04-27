@@ -6,3 +6,11 @@ import prismnet_py
 create_file(example.txt)
 delete_file(example.txt)
 ```
+# How this works
+```mermaid
+graph TD;
+    YOUR TEXT-->COMPILER;
+    A-->C;
+    B-->D;
+    C-->D;
+```
