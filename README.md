@@ -1,6 +1,6 @@
 # PrismNet-Framework
 This a lightweight file manager add,check,delete,create dir,delete,dir and more
-# Use this example
+## Use this example
 ```python
 import prismnet_py
 create_file(example.txt)
@@ -8,5 +8,5 @@ delete_file(example.txt)
 ```
 | Framework version | Features |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1.0  | 🌏Global release  |
+| 1.1  | *🛠Mods Support (Coming Soon)*  |
