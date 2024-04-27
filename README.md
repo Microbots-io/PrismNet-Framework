@@ -6,7 +6,7 @@ import prismnet_py
 create_file(example.txt)
 delete_file(example.txt)
 ```
-| Framework version | Second Header |
+| Framework version | Features |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
