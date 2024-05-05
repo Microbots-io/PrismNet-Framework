@@ -6,6 +6,9 @@ import prismnet_py
 create_file(example.txt)
 delete_file(example.txt)
 ```
+```bash
+pip install PrismNET
+```
 | Framework version | Features |
 | ------------- | ------------- |
 | 1.0  | 🌏Global release  |
